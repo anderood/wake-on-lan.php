@@ -28,7 +28,6 @@
         </div>
     </div>
 </nav>
-
 <div class="bg-body-tertiary p-5 rounded">
     <div class="container">
         <h1>NET-HOUSE</h1>
@@ -75,7 +74,7 @@
 </div>
 <section class="container py-5">
         <div class="row g-3">
-            <div class="col-md-3">
+            <div class="col-12 col-sm-6 col-md-6 col-xl-4">
                 <div class="card">
                     <div class="card-body">
                         <h5 class="card-title">Tv da Sala</h5>
